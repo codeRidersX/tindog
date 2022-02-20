@@ -1,2 +1,0 @@
-# tindog
-tinder for dogs
